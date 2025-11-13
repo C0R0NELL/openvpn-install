@@ -10,7 +10,7 @@ This script will let you set up your own VPN server in no more than a minute, ev
 ### Installation
 Use o comando abaixo para usar este repositório:
 ```plain text
-wget https://raw.githubusercontent.com/yuribco/openvpn-install/master/openvpn-install.sh -O openvpn-install.sh && bash openvpn-install.sh
+wget https://raw.githubusercontent.com/C0R0NELL/openvpn-install/master/openvpn-install.sh -O openvpn-install.sh && bash openvpn-install.sh
 ```
 Use o comando abaixo para usar repositório pai:
 ```plain text
